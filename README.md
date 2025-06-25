@@ -1,8 +1,4 @@
-<h1 align="center">Hi, I'm <span style="color:#2E86C1">Sumbal Zehra!</span></h1>
-<p align="center">Systems Engineering Student | Embedded Systems | Creative Technologist | Inquisitive tech enthusiast</p>
-
-<p align="center">
-  <img src="print("Name Sumbal Zehra").png alt="cover image" width="100%" />
+<img src="print("Name Sumbal Zehra").png alt="cover image" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm <span style="color:#2E86C1">Sumbal Zehra</span> 👋</h1>
