@@ -2,6 +2,13 @@
 <p align="center">Systems Engineering Student | Embedded Systems | Creative Technologist | Inquisitive tech enthusiast</p>
 
 <p align="center">
+  <img src="print("Name Sumbal Zehra").png alt="cover image" width="100%" />
+</p>
+
+<h1 align="center">Hi, I'm <span style="color:#2E86C1">Sumbal Zehra</span> 👋</h1>
+<p align="center">Systems Engineering Student | Embedded Systems | Creative Technologist</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=500&center=true&vCenter=true&width=435&lines=Bridging+Hardware+%26+Software;Exploring+Embedded+Worlds;Crafting+Tech+with+Purpose" alt="Typing SVG" />
 </p>
 
