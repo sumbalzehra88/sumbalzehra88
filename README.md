@@ -1,27 +1,25 @@
-# 
-
 <h1 align="center">Hi, I'm <span style="color:#2E86C1">Sumbal Zehra</span> 👋</h1>
-<p align="center">Systems Engineering Student | Embedded Systems | Creative Technologist</p>
+<p align="center"><b>Systems Engineering Student | Embedded Systems | Creative Technologist</b></p>
 
 <p align="center">
-<img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=500&center=true&vCenter=true&width=435&lines=Bridging+Hardware+%26+Software;Exploring+Embedded+Worlds;Crafting+Tech+with+Purpose](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=4000&pause=500&center=true&vCenter=true&width=435&lines=Bridging+Hardware+%26+Software;Exploring+Embedded+Worlds;Crafting+Tech+with+Purpose)" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=500&center=true&vCenter=true&width=500&lines=Bridging+Hardware+%26+Software;Exploring+Embedded+Worlds;Future+Embedded+AI+Engineer;Crafting+Tech+with+Purpose" alt="Typing SVG" />
 </p>
 
 ---
 
-## About Me
+## 👩‍💻 About Me
 
-I'm a passionate Computer Systems Engineering student with a keen interest in embedded systems and AI/ML. From learning the dynamics of hardware to exploring the intricacies of software, I tend to constantly level myself up in the evolving world of tech. Research brings me immense joy and acts as a benefactor in further upgrading my skills.
+I'm a passionate **Computer Systems Engineering** student focused on the intersection of embedded systems and AI/ML. I enjoy deconstructing complex hardware dynamics and rebuilding them with intelligent software layers. Currently, I am deepening my knowledge in **Embedded AI** to bring machine learning models to the edge.
 
-- Undergraduate Student in CSE
-- Focused on Embedded Systems, AI/ML, Embedded AI
-- I love innovating with low-level systems and high-level design
+- 🎓 **Current:** Undergraduate Student in CSE
+- 🎯 **Focus:** Embedded Systems, AI/ML, and the evolution of TinyML.
+- 💡 **Passion:** Innovating at the cross-section of low-level systems and high-level design.
 
 ---
 
-## Tech Stack
+## 🧰 Tech Stack
 
-### Embedded & Low-Level Programming
+### 🔌 Embedded & Low-Level
 *Building the physical layer.*
 <p align="left">
   <img src="https://img.shields.io/badge/Embedded_C-00599C?style=flat&logo=c&logoColor=white" />
@@ -30,7 +28,7 @@ I'm a passionate Computer Systems Engineering student with a keen interest in em
   <img src="https://img.shields.io/badge/Verilog-FE5F55?style=flat" />
 </p>
 
-### ML & AI
+### 🧠 ML & AI
 *Processing the logic layer.*
 <p align="left">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
@@ -39,7 +37,7 @@ I'm a passionate Computer Systems Engineering student with a keen interest in em
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
 </p>
 
-### Analysis & Visualization
+### 🎨 Analysis & Visualization
 *Visualizing the insights.*
 <p align="left">
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
@@ -51,44 +49,38 @@ I'm a passionate Computer Systems Engineering student with a keen interest in em
 
 ---
 
-## Highlighted Projects
+## 🌟 Highlighted Projects
 
-| Project | Description |
-| --- | --- |
-| **LRU Cache** | GUI based LRU cache made using streamlit and by applying concepts of DSA in Python. |
-| **Hospital Database** | Hospital Database with dashboards differing with user type. |
-| **Environment Monitoring** | C language and shell scripting combined to fetch weather data from API |
-| **Gift Shop** | GUI based gift shop made using tkinter |
+| Project | Description | Tech Used |
+| :--- | :--- | :--- |
+| **LRU Cache Visualizer** | Interactive GUI demonstrating memory management and DSA concepts. | Python, Streamlit |
+| **Hospital Database** | Secure database system with role-based dashboards for medical management. | SQL, Python |
+| **Env. Monitoring** | Real-time weather data acquisition system using low-level interfacing. | C, Shell, API |
+| **Interactive Gift Shop** | User-centric retail interface focusing on clean UX/UI. | Python, Tkinter |
 
 ---
 
-## GitHub Stats
+## 📊 Performance & Stats
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sumbalzehra88&theme=tokyonight" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api?username=sumbalzehra88&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sumbalzehra88&theme=tokyonight" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=sumbalzehra88&show_icons=true&theme=tokyonight" width="48%" />
+</p>
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/Sumbal-Zehra?theme=dark&font=Fira%20Code" />
 </p>
 
 ---
 
-## LeetCode Stats
-
-<p align="center">
-<img src="[https://leetcard.jacoblin.cool/Sumbal-Zehra?theme=dark&font=Fira Code](https://leetcard.jacoblin.cool/Sumbal-Zehra?theme=dark&font=Fira%20Code)" />
-</p>
-
----
-
-## Connect with Me
+## 🔗 Connect with Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/sumbal-zehra-ba14461b6" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
 <a href="https://instagram.com/sumbalsverses" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
-<a [href="mailto:sumbal@example.com](mailto:href=%22mailto:sumbal@example.com)"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+<a href="mailto:sumbalzehra88@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
 > *"Navigating systems gracefully."*
->
