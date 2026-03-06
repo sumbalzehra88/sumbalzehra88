@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm <span style="color:#2E86C1">Sumbal Zehra</span> 👋</h1>
+<h1 align="center">Hi, I'm <span style="color:#2E86C1">Sumbal Zehra!</span> </h1>
 <p align="center"><b>Systems Engineering Student | Embedded Systems | Creative Technologist</b></p>
 
 <p align="center">
@@ -7,19 +7,19 @@
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
 I'm a passionate **Computer Systems Engineering** student focused on the intersection of embedded systems and AI/ML. I enjoy deconstructing complex hardware dynamics and rebuilding them with intelligent software layers. Currently, I am deepening my knowledge in **Embedded AI** to bring machine learning models to the edge.
 
-- 🎓 **Current:** Undergraduate Student in CSE
-- 🎯 **Focus:** Embedded Systems, AI/ML, and the evolution of TinyML.
-- 💡 **Passion:** Innovating at the cross-section of low-level systems and high-level design.
+- **Current:** Undergraduate Student in CSE
+- **Focus:** Embedded Systems, AI/ML, and the evolution of TinyML.
+- **Passion:** Innovating at the cross-section of low-level systems and high-level design.
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
-### 🔌 Embedded & Low-Level
+### Embedded & Low-Level
 *Building the physical layer.*
 <p align="left">
   <img src="https://img.shields.io/badge/Embedded_C-00599C?style=flat&logo=c&logoColor=white" />
@@ -28,7 +28,7 @@ I'm a passionate **Computer Systems Engineering** student focused on the interse
   <img src="https://img.shields.io/badge/Verilog-FE5F55?style=flat" />
 </p>
 
-### 🧠 ML & AI
+### ML & AI
 *Processing the logic layer.*
 <p align="left">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
@@ -37,7 +37,7 @@ I'm a passionate **Computer Systems Engineering** student focused on the interse
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
 </p>
 
-### 🎨 Analysis & Visualization
+### Analysis & Visualization
 *Visualizing the insights.*
 <p align="left">
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
@@ -49,7 +49,7 @@ I'm a passionate **Computer Systems Engineering** student focused on the interse
 
 ---
 
-## 🌟 Highlighted Projects
+## Highlighted Projects
 
 | Project | Description | Tech Used |
 | :--- | :--- | :--- |
@@ -60,7 +60,7 @@ I'm a passionate **Computer Systems Engineering** student focused on the interse
 
 ---
 
-## 📊 Performance & Stats
+#Performance & Stats
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumbalzehra88&theme=tokyonight" width="48%" />
@@ -73,7 +73,7 @@ I'm a passionate **Computer Systems Engineering** student focused on the interse
 
 ---
 
-## 🔗 Connect with Me
+## Connect with Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/sumbal-zehra-ba14461b6" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
