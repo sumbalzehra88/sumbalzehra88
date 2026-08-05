@@ -9,13 +9,15 @@
 <br>
 
 <a href="https://github.com/sumbalzehra88">
-<img src="https://img.shields.io/badge/GitHub-sumbalzehra88-f472b6?style=flat-square&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-sumbalzehra88-ff69b4?style=flat-square&logo=github&logoColor=white" alt="GitHub">
 </a>
+
 <a href="mailto:sumbalzehra88@gmail.com">
-<img src="https://img.shields.io/badge/Email-sumbalzehra88-f9a8d4?style=flat-square&logo=gmail&logoColor=333333">
+<img src="https://img.shields.io/badge/Email-sumbalzehra88-ff69b4?style=flat-square&logo=gmail&logoColor=white" alt="Email">
 </a>
+
 <a href="https://github.com/sumbalzehra88">
-<img src="https://img.shields.io/badge/Karachi%2C%20Pakistan-fce7f3?style=flat-square&labelColor=fce7f3&color=fce7f3">
+<img src="https://img.shields.io/badge/Karachi%2C%20Pakistan-ff69b4?style=flat-square" alt="Location">
 </a>
 
 </div>
@@ -41,16 +43,33 @@ Currently exploring:
 
 ## What I Build
 
-<div align="center">
-
-|  Machine Learning |      Embedded AI     | Intelligent Systems |
-| :---------------: | :------------------: | :-----------------: |
-| Model Development |    ESP32 / ESP8266   |      AI Agents      |
-|  ML From Scratch  |      IoT Systems     |         RAG         |
-|  Computer Vision  |    Sensor Systems    |   LLM Applications  |
-|   Data Analysis   | Hardware Integration | Research Automation |
-
-</div>
+<table>
+<tr>
+<td align="center" bgcolor="#f9a8d4"><strong>Machine Learning</strong></td>
+<td align="center" bgcolor="#f9a8d4"><strong>Embedded AI</strong></td>
+<td align="center" bgcolor="#f9a8d4"><strong>Intelligent Systems</strong></td>
+</tr>
+<tr>
+<td align="center" bgcolor="#fff1f8">Model Development</td>
+<td align="center" bgcolor="#fff1f8">ESP32 / ESP8266</td>
+<td align="center" bgcolor="#fff1f8">AI Agents</td>
+</tr>
+<tr>
+<td align="center" bgcolor="#fff1f8">ML From Scratch</td>
+<td align="center" bgcolor="#fff1f8">IoT Systems</td>
+<td align="center" bgcolor="#fff1f8">RAG</td>
+</tr>
+<tr>
+<td align="center" bgcolor="#fff1f8">Computer Vision</td>
+<td align="center" bgcolor="#fff1f8">Sensor Systems</td>
+<td align="center" bgcolor="#fff1f8">LLM Applications</td>
+</tr>
+<tr>
+<td align="center" bgcolor="#fff1f8">Data Analysis</td>
+<td align="center" bgcolor="#fff1f8">Hardware Integration</td>
+<td align="center" bgcolor="#fff1f8">Research Automation</td>
+</tr>
+</table>
 
 ---
 
@@ -70,7 +89,7 @@ Binary classification system predicting **construction site fatalities** from mu
 
 ![Python](https://img.shields.io/badge/Python-fce7f3?style=flat-square\&labelColor=fce7f3\&color=fce7f3)
 ![PyTorch](https://img.shields.io/badge/PyTorch-fce7f3?style=flat-square\&labelColor=fce7f3\&color=fce7f3)
-![Scikit--learn](https://img.shields.io/badge/Scikit--learn-fce7f3?style=flat-square\&labelColor=fce7f3\&color=fce7f3)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-fce7f3?style=flat-square\&labelColor=fce7f3\&color=fce7f3)
 ![SMOTE](https://img.shields.io/badge/SMOTE-fce7f3?style=flat-square\&labelColor=fce7f3\&color=fce7f3)
 ![Incremental Learning](https://img.shields.io/badge/Incremental%20Learning-fce7f3?style=flat-square\&labelColor=fce7f3\&color=fce7f3)
 ![Folium](https://img.shields.io/badge/Folium-fce7f3?style=flat-square\&labelColor=fce7f3\&color=fce7f3)
@@ -154,47 +173,84 @@ Built and simulated combinational and sequential circuits using Verilog HDL and 
 
 ---
 
-## Tech Stack
+## Skills
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-fce7f3?style=flat-square\&labelColor=fce7f3\&color=fce7f3)
-![C](https://img.shields.io/badge/C-fce7f3?style=flat-square\&labelColor=fce7f3\&color=fce7f3)
-![C++](https://img.shields.io/badge/C%2B%2B-fce7f3?style=flat-square\&labelColor=fce7f3\&color=fce7f3)
-![SQL](https://img.shields.io/badge/SQL-fce7f3?style=flat-square\&labelColor=fce7f3\&color=fce7f3)
-![JavaScript](https://img.shields.io/badge/JavaScript-fce7f3?style=flat-square\&labelColor=fce7f3\&color=fce7f3)
-![HTML](https://img.shields.io/badge/HTML-fce7f3?style=flat-square\&labelColor=fce7f3\&color=fce7f3)
-![CSS](https://img.shields.io/badge/CSS-fce7f3?style=flat-square\&labelColor=fce7f3\&color=fce7f3)
+![Python](https://img.shields.io/badge/Python-ff69b4?style=flat-square\&logo=python\&logoColor=white)
+![C](https://img.shields.io/badge/C-ff69b4?style=flat-square\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-ff69b4?style=flat-square\&logo=c%2B%2B\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-ff69b4?style=flat-square\&logo=mysql\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ff69b4?style=flat-square\&logo=javascript\&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-ff69b4?style=flat-square\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-ff69b4?style=flat-square\&logo=css3\&logoColor=white)
 
 ### Machine Learning
 
-![PyTorch](https://img.shields.io/badge/PyTorch-fce7f3?style=flat-square\&labelColor=fce7f3\&color=fce7f3)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-fce7f3?style=flat-square\&labelColor=fce7f3\&color=fce7f3)
-![Keras](https://img.shields.io/badge/Keras-fce7f3?style=flat-square\&labelColor=fce7f3\&color=fce7f3)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-fce7f3?style=flat-square\&labelColor=fce7f3\&color=fce7f3)
-![NumPy](https://img.shields.io/badge/NumPy-fce7f3?style=flat-square\&labelColor=fce7f3\&color=fce7f3)
-![Pandas](https://img.shields.io/badge/Pandas-fce7f3?style=flat-square\&labelColor=fce7f3\&color=fce7f3)
+![PyTorch](https://img.shields.io/badge/PyTorch-ff69b4?style=flat-square\&logo=pytorch\&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-ff69b4?style=flat-square\&logo=tensorflow\&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-ff69b4?style=flat-square\&logo=keras\&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ff69b4?style=flat-square\&logo=scikit-learn\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-ff69b4?style=flat-square\&logo=numpy\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-ff69b4?style=flat-square\&logo=pandas\&logoColor=white)
 
 ### Agentic AI & LLMs
 
-![LangChain](https://img.shields.io/badge/LangChain-fce7f3?style=flat-square\&labelColor=fce7f3\&color=fce7f3)
-![LangGraph](https://img.shields.io/badge/LangGraph-fce7f3?style=flat-square\&labelColor=fce7f3\&color=fce7f3)
-![RAG](https://img.shields.io/badge/RAG-fce7f3?style=flat-square\&labelColor=fce7f3\&color=fce7f3)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-fce7f3?style=flat-square\&labelColor=fce7f3\&color=fce7f3)
-![AI Agents](https://img.shields.io/badge/AI%20Agents-fce7f3?style=flat-square\&labelColor=fce7f3\&color=fce7f3)
-![Gemini](https://img.shields.io/badge/Gemini-fce7f3?style=flat-square\&labelColor=fce7f3\&color=fce7f3)
+![LangChain](https://img.shields.io/badge/LangChain-ff69b4?style=flat-square\&logo=langchain\&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-ff69b4?style=flat-square\&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-ff69b4?style=flat-square\&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-ff69b4?style=flat-square\&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-ff69b4?style=flat-square\&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-ff69b4?style=flat-square\&logo=google\&logoColor=white)
 
 ### Embedded & Development
 
-![ESP32](https://img.shields.io/badge/ESP32-fce7f3?style=flat-square\&labelColor=fce7f3\&color=fce7f3)
-![Docker](https://img.shields.io/badge/Docker-fce7f3?style=flat-square\&labelColor=fce7f3\&color=fce7f3)
-![Git](https://img.shields.io/badge/Git-fce7f3?style=flat-square\&labelColor=fce7f3\&color=fce7f3)
-![Linux](https://img.shields.io/badge/Linux-fce7f3?style=flat-square\&labelColor=fce7f3\&color=fce7f3)
-![Figma](https://img.shields.io/badge/Figma-fce7f3?style=flat-square\&labelColor=fce7f3\&color=fce7f3)
+![ESP32](https://img.shields.io/badge/ESP32-ff69b4?style=flat-square\&logo=espressif\&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-ff69b4?style=flat-square\&logo=arduino\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-ff69b4?style=flat-square\&logo=docker\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-ff69b4?style=flat-square\&logo=git\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-ff69b4?style=flat-square\&logo=linux\&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-ff69b4?style=flat-square\&logo=figma\&logoColor=white)
 
 ---
 
-## GitHub Activity
+# GitHub & LeetCode
+
+<div align="center">
+
+## GitHub Stats
+
+<a href="https://github.com/sumbalzehra88">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=sumbalzehra88&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=fff7fb&title_color=ec4899&icon_color=ff69b4&text_color=555555&ring_color=ff69b4" alt="Sumbal's GitHub Stats">
+</a>
+
+<a href="https://github.com/sumbalzehra88">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumbalzehra88&layout=compact&langs_count=8&hide_border=true&bg_color=fff7fb&title_color=ec4899&text_color=555555" alt="Sumbal's Top Languages">
+</a>
+
+<br><br>
+
+<a href="https://github.com/sumbalzehra88">
+<img width="495" src="https://github-readme-streak-stats-eight.vercel.app/?user=sumbalzehra88&hide_border=true&background=fff7fb&ring=ff69b4&fire=ec4899&currStreakLabel=ec4899&sideLabels=ec4899&currStreakNum=ff69b4&sideNums=ff69b4&dates=999999" alt="GitHub Streak">
+</a>
+
+</div>
+
+---
+
+## GitHub Activity Graph
+
+<div align="center">
+
+<a href="https://github.com/sumbalzehra88">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sumbalzehra88&custom_title=Sumbal%27s%20GitHub%20Activity&bg_color=fff7fb&color=ec4899&line=ff69b4&point=db2777&area_color=f9a8d4&area=true&hide_border=true" alt="Sumbal's GitHub Activity Graph" width="100%">
+</a>
+
+</div>
+
+---
+
+## GitHub Contribution Snake
 
 <div align="center">
 
@@ -202,15 +258,26 @@ Built and simulated combinational and sequential circuits using Verilog HDL and 
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/sumbalzehra88/sumbalzehra88/output/github-contribution-grid-snake-dark.svg">
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/sumbalzehra88/sumbalzehra88/output/github-contribution-grid-snake.svg">
+  <img
+    src="https://raw.githubusercontent.com/sumbalzehra88/sumbalzehra88/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+    width="100%">
+</picture>
 
-<source
- media="(prefers-color-scheme: light)"
- srcset="https://raw.githubusercontent.com/sumbalzehra88/sumbalzehra88/output/github-contribution-grid-snake.svg">
+</div>
 
-<img
- src="https://raw.githubusercontent.com/sumbalzehra88/sumbalze88/output/github-contribution-grid-snake.svg"
- alt="GitHub contribution activity"
- width="100%"> </picture>
+---
+
+## LeetCode
+
+<div align="center">
+
+<a href="https://leetcode.com/u/sumbalzehra88/">
+<img src="https://github-readme-leetcode-stats.vercel.app/api/card?username=sumbalzehra88&theme=pink&border_radius=10&hide_border=true" alt="LeetCode Stats" width="700">
+</a>
 
 </div>
 
@@ -218,25 +285,43 @@ Built and simulated combinational and sequential circuits using Verilog HDL and 
 
 ## Certifications
 
-<div align="center">
-
-| Certification                    | Organisation           |
-| :------------------------------- | :--------------------- |
-| AI Fundamentals                  | Google                 |
-| Introduction to Machine Learning | Duke University        |
-| Shallow Neural Networks          | DeepLearning Institute |
-| Generative AI Explained          | NVIDIA DLI             |
-| Introduction to Generative AI    | NVIDIA DLI             |
-| IoT with ESP32 and ESP8266       | NCL NEDUET             |
-
-</div>
+<table>
+<tr>
+<th bgcolor="#f9a8d4">Certification</th>
+<th bgcolor="#f9a8d4">Organisation</th>
+</tr>
+<tr>
+<td bgcolor="#fff1f8">AI Fundamentals</td>
+<td bgcolor="#fff1f8">Google</td>
+</tr>
+<tr>
+<td bgcolor="#fff1f8">Introduction to Machine Learning</td>
+<td bgcolor="#fff1f8">Duke University</td>
+</tr>
+<tr>
+<td bgcolor="#fff1f8">Shallow Neural Networks</td>
+<td bgcolor="#fff1f8">DeepLearning Institute</td>
+</tr>
+<tr>
+<td bgcolor="#fff1f8">Generative AI Explained</td>
+<td bgcolor="#fff1f8">NVIDIA DLI</td>
+</tr>
+<tr>
+<td bgcolor="#fff1f8">Introduction to Generative AI</td>
+<td bgcolor="#fff1f8">NVIDIA DLI</td>
+</tr>
+<tr>
+<td bgcolor="#fff1f8">IoT with ESP32 and ESP8266</td>
+<td bgcolor="#fff1f8">NCL NEDUET</td>
+</tr>
+</table>
 
 ---
 
 <div align="center">
 
 <a href="https://github.com/sumbalzehra88">
-<img src="https://img.shields.io/badge/Explore%20My%20GitHub-f472b6?style=for-the-badge&logo=github&logoColor=white" alt="Explore My GitHub">
+<img src="https://img.shields.io/badge/Explore%20My%20GitHub-ff69b4?style=for-the-badge&logo=github&logoColor=white" alt="Explore My GitHub">
 </a>
 
 <br><br>
