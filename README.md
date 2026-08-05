@@ -91,9 +91,8 @@ a{color:inherit;text-decoration:none}
 .skill-item{font-size:11px;color:var(--muted);padding:4px 10px;background:var(--surface2);border-radius:4px;border:1px solid var(--border);display:inline-flex;align-items:center;gap:6px}
 .skill-item i{font-size:14px}
 
-/* GitHub Contribution Snake Section */
-.github-snake-section{background:var(--surface);border:1px solid var(--border);border-radius:12px;padding:1.5rem;margin-bottom:3rem;text-align:center}
-.github-snake-section img{max-width:100%;height:auto;border-radius:6px;filter:invert(1) hue-rotate(180deg);opacity:0.85}
+.github-snake-section{background:var(--surface);border:1px solid var(--border);border-radius:12px;padding:1.5rem;margin-bottom:3rem;text-align:center;overflow:hidden}
+.github-snake-section img{width:100%;height:auto;border-radius:6px;background:#111111;padding:10px}
 
 .certs{display:flex;flex-direction:column;gap:6px;margin-bottom:3rem}
 .cert{display:flex;align-items:center;gap:12px;background:var(--surface);border:1px solid var(--border);border-radius:8px;padding:0.85rem 1rem}
