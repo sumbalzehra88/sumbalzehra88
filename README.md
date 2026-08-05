@@ -347,10 +347,10 @@ width="700">
 <table>
 <tr>
 <td align="center" bgcolor="#f472b6">
-<strong>Certification</strong>
+<b>Certification</b>
 </td>
 <td align="center" bgcolor="#f472b6">
-<strong>Organisation</strong>
+<b>Organisation</b>
 </td>
 </tr>
 
@@ -407,8 +407,8 @@ IoT with ESP32 and ESP8266
 NCL NEDUET
 </td>
 </tr>
-
 </table>
+
 
 ---
 
