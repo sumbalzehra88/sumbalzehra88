@@ -3,21 +3,21 @@
 # Sumbal Zehra
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=DM+Serif+Display&size=28&duration=3000&pause=1000&color=EC4899&center=true&vCenter=true&width=600&lines=Creative+Technologist;Machine+Learning+Engineer;Embedded+AI+Enthusiast;Building+Intelligent+Systems" alt="Creative Technologist">
+  <img src="https://readme-typing-svg.demolab.com?font=DM+Serif+Display&size=28&duration=3000&pause=1000&color=EC4899&center=true&vCenter=true&width=650&lines=Creative+Technologist;Machine+Learning+Engineer;Embedded+AI+Enthusiast;Building+Intelligent+Systems" alt="Creative Technologist">
 </a>
 
-<br>
+<br><br>
 
 <a href="https://github.com/sumbalzehra88">
 <img src="https://img.shields.io/badge/GitHub-sumbalzehra88-ff69b4?style=flat-square&logo=github&logoColor=white" alt="GitHub">
 </a>
 
 <a href="mailto:sumbalzehra88@gmail.com">
-<img src="https://img.shields.io/badge/Email-sumbalzehra88-ff69b4?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+<img src="https://img.shields.io/badge/Email-ff69b4?style=flat-square&logo=gmail&logoColor=white" alt="Email">
 </a>
 
-<a href="https://github.com/sumbalzehra88">
-<img src="https://img.shields.io/badge/Karachi%2C%20Pakistan-ff69b4?style=flat-square" alt="Location">
+<a href="https://leetcode.com/u/Sumbal-Zehra/">
+<img src="https://img.shields.io/badge/LeetCode-ff69b4?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode">
 </a>
 
 </div>
@@ -28,7 +28,7 @@
 
 I build at the intersection of **machine learning, embedded systems, and intelligent technology**.
 
-My work focuses on taking concepts from machine learning and computer systems and turning them into practical, real-world solutions — from safety systems and autonomous technologies to research tools and intelligent applications.
+My work focuses on taking concepts from machine learning and computer systems and turning them into practical, real-world solutions — from safety systems and intelligent applications to research tools and embedded technologies.
 
 Currently exploring:
 
@@ -45,29 +45,63 @@ Currently exploring:
 
 <table>
 <tr>
-<td align="center" bgcolor="#f9a8d4"><strong>Machine Learning</strong></td>
-<td align="center" bgcolor="#f9a8d4"><strong>Embedded AI</strong></td>
-<td align="center" bgcolor="#f9a8d4"><strong>Intelligent Systems</strong></td>
+<td align="center" bgcolor="#f472b6">
+<strong>Machine Learning</strong>
+</td>
+<td align="center" bgcolor="#f472b6">
+<strong>Embedded AI</strong>
+</td>
+<td align="center" bgcolor="#f472b6">
+<strong>Intelligent Systems</strong>
+</td>
 </tr>
+
 <tr>
-<td align="center" bgcolor="#fff1f8">Model Development</td>
-<td align="center" bgcolor="#fff1f8">ESP32 / ESP8266</td>
-<td align="center" bgcolor="#fff1f8">AI Agents</td>
+<td align="center" bgcolor="#fce7f3">
+Model Development
+</td>
+<td align="center" bgcolor="#fce7f3">
+ESP32 / ESP8266
+</td>
+<td align="center" bgcolor="#fce7f3">
+AI Agents
+</td>
 </tr>
+
 <tr>
-<td align="center" bgcolor="#fff1f8">ML From Scratch</td>
-<td align="center" bgcolor="#fff1f8">IoT Systems</td>
-<td align="center" bgcolor="#fff1f8">RAG</td>
+<td align="center" bgcolor="#fce7f3">
+ML From Scratch
+</td>
+<td align="center" bgcolor="#fce7f3">
+IoT Systems
+</td>
+<td align="center" bgcolor="#fce7f3">
+RAG
+</td>
 </tr>
+
 <tr>
-<td align="center" bgcolor="#fff1f8">Computer Vision</td>
-<td align="center" bgcolor="#fff1f8">Sensor Systems</td>
-<td align="center" bgcolor="#fff1f8">LLM Applications</td>
+<td align="center" bgcolor="#fce7f3">
+Computer Vision
+</td>
+<td align="center" bgcolor="#fce7f3">
+Sensor Systems
+</td>
+<td align="center" bgcolor="#fce7f3">
+LLM Applications
+</td>
 </tr>
+
 <tr>
-<td align="center" bgcolor="#fff1f8">Data Analysis</td>
-<td align="center" bgcolor="#fff1f8">Hardware Integration</td>
-<td align="center" bgcolor="#fff1f8">Research Automation</td>
+<td align="center" bgcolor="#fce7f3">
+Data Analysis
+</td>
+<td align="center" bgcolor="#fce7f3">
+Hardware Integration
+</td>
+<td align="center" bgcolor="#fce7f3">
+Research Automation
+</td>
 </tr>
 </table>
 
@@ -216,22 +250,28 @@ Built and simulated combinational and sequential circuits using Verilog HDL and 
 
 # GitHub & LeetCode
 
-<div align="center">
-
 ## GitHub Stats
 
+<div align="center">
+
 <a href="https://github.com/sumbalzehra88">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=sumbalzehra88&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=fff7fb&title_color=ec4899&icon_color=ff69b4&text_color=555555&ring_color=ff69b4" alt="Sumbal's GitHub Stats">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sumbalzehra88&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=fff7fb&title_color=ec4899&icon_color=ff69b4&text_color=555555&ring_color=ff69b4" alt="Sumbal's GitHub Stats" width="495">
+
 </a>
 
 <a href="https://github.com/sumbalzehra88">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumbalzehra88&layout=compact&langs_count=8&hide_border=true&bg_color=fff7fb&title_color=ec4899&text_color=555555" alt="Sumbal's Top Languages">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumbalzehra88&layout=compact&langs_count=8&hide_border=true&bg_color=fff7fb&title_color=ec4899&text_color=555555" alt="Sumbal's Top Languages" width="495">
+
 </a>
 
 <br><br>
 
 <a href="https://github.com/sumbalzehra88">
-<img width="495" src="https://github-readme-streak-stats-eight.vercel.app/?user=sumbalzehra88&hide_border=true&background=fff7fb&ring=ff69b4&fire=ec4899&currStreakLabel=ec4899&sideLabels=ec4899&currStreakNum=ff69b4&sideNums=ff69b4&dates=999999" alt="GitHub Streak">
+
+<img src="https://streak-stats.vercel.app/?user=sumbalzehra88&hide_border=true&background=fff7fb&ring=ff69b4&fire=ec4899&currStreakLabel=ec4899&sideLabels=ec4899&currStreakNum=ff69b4&sideNums=ff69b4&dates=777777" alt="Sumbal's GitHub Streak" width="495">
+
 </a>
 
 </div>
@@ -243,7 +283,9 @@ Built and simulated combinational and sequential circuits using Verilog HDL and 
 <div align="center">
 
 <a href="https://github.com/sumbalzehra88">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sumbalzehra88&custom_title=Sumbal%27s%20GitHub%20Activity&bg_color=fff7fb&color=ec4899&line=ff69b4&point=db2777&area_color=f9a8d4&area=true&hide_border=true" alt="Sumbal's GitHub Activity Graph" width="100%">
+
 </a>
 
 </div>
@@ -255,16 +297,20 @@ Built and simulated combinational and sequential circuits using Verilog HDL and 
 <div align="center">
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/sumbalzehra88/sumbalzehra88/output/github-contribution-grid-snake-dark.svg">
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/sumbalzehra88/sumbalzehra88/output/github-contribution-grid-snake.svg">
-  <img
-    src="https://raw.githubusercontent.com/sumbalzehra88/sumbalzehra88/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake"
-    width="100%">
+
+<source
+media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/sumbalzehra88/sumbalzehra88/output/github-contribution-grid-snake-dark.svg">
+
+<source
+media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/sumbalzehra88/sumbalzehra88/output/github-contribution-grid-snake.svg">
+
+<img
+src="https://raw.githubusercontent.com/sumbalzehra88/sumbalzehra88/output/github-contribution-grid-snake.svg"
+alt="GitHub Contribution Snake"
+width="100%">
+
 </picture>
 
 </div>
@@ -277,50 +323,91 @@ Built and simulated combinational and sequential circuits using Verilog HDL and 
 
 <a href="https://leetcode.com/u/Sumbal-Zehra/">
 
-<img src="https://leetcard.jacoblin.cool/Sumbal-Zehra?theme=light&font=Baloo%202&ext=heatmap&border=0&radius=10" alt="Sumbal Zehra LeetCode Stats" width="700">
+<img
+src="https://leetcard.jacoblin.cool/Sumbal-Zehra?theme=light&font=Baloo%202&ext=heatmap&border=0&radius=10"
+alt="Sumbal Zehra LeetCode Stats"
+width="700">
 
 </a>
 
 <br><br>
 
 <a href="https://leetcode.com/u/Sumbal-Zehra/">
+
 <img src="https://img.shields.io/badge/View%20LeetCode%20Profile-ff69b4?style=for-the-badge&logo=leetcode&logoColor=white" alt="View LeetCode Profile">
+
 </a>
 
 </div>
 
+---
 
 ## Certifications
 
 <table>
 <tr>
-<th bgcolor="#f9a8d4">Certification</th>
-<th bgcolor="#f9a8d4">Organisation</th>
+<td align="center" bgcolor="#f472b6">
+<strong>Certification</strong>
+</td>
+<td align="center" bgcolor="#f472b6">
+<strong>Organisation</strong>
+</td>
 </tr>
+
 <tr>
-<td bgcolor="#fff1f8">AI Fundamentals</td>
-<td bgcolor="#fff1f8">Google</td>
+<td bgcolor="#fce7f3">
+AI Fundamentals
+</td>
+<td bgcolor="#fce7f3">
+Google
+</td>
 </tr>
+
 <tr>
-<td bgcolor="#fff1f8">Introduction to Machine Learning</td>
-<td bgcolor="#fff1f8">Duke University</td>
+<td bgcolor="#fce7f3">
+Introduction to Machine Learning
+</td>
+<td bgcolor="#fce7f3">
+Duke University
+</td>
 </tr>
+
 <tr>
-<td bgcolor="#fff1f8">Shallow Neural Networks</td>
-<td bgcolor="#fff1f8">DeepLearning Institute</td>
+<td bgcolor="#fce7f3">
+Shallow Neural Networks
+</td>
+<td bgcolor="#fce7f3">
+DeepLearning Institute
+</td>
 </tr>
+
 <tr>
-<td bgcolor="#fff1f8">Generative AI Explained</td>
-<td bgcolor="#fff1f8">NVIDIA DLI</td>
+<td bgcolor="#fce7f3">
+Generative AI Explained
+</td>
+<td bgcolor="#fce7f3">
+NVIDIA DLI
+</td>
 </tr>
+
 <tr>
-<td bgcolor="#fff1f8">Introduction to Generative AI</td>
-<td bgcolor="#fff1f8">NVIDIA DLI</td>
+<td bgcolor="#fce7f3">
+Introduction to Generative AI
+</td>
+<td bgcolor="#fce7f3">
+NVIDIA DLI
+</td>
 </tr>
+
 <tr>
-<td bgcolor="#fff1f8">IoT with ESP32 and ESP8266</td>
-<td bgcolor="#fff1f8">NCL NEDUET</td>
+<td bgcolor="#fce7f3">
+IoT with ESP32 and ESP8266
+</td>
+<td bgcolor="#fce7f3">
+NCL NEDUET
+</td>
 </tr>
+
 </table>
 
 ---
@@ -328,7 +415,9 @@ Built and simulated combinational and sequential circuits using Verilog HDL and 
 <div align="center">
 
 <a href="https://github.com/sumbalzehra88">
+
 <img src="https://img.shields.io/badge/Explore%20My%20GitHub-ff69b4?style=for-the-badge&logo=github&logoColor=white" alt="Explore My GitHub">
+
 </a>
 
 <br><br>
