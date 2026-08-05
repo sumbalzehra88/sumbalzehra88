@@ -275,13 +275,20 @@ Built and simulated combinational and sequential circuits using Verilog HDL and 
 
 <div align="center">
 
-<a href="https://leetcode.com/u/sumbalzehra88/">
-<img src="https://github-readme-leetcode-stats.vercel.app/api/card?username=sumbalzehra88&theme=pink&border_radius=10&hide_border=true" alt="LeetCode Stats" width="700">
+<a href="https://leetcode.com/u/Sumbal-Zehra/">
+
+<img src="https://leetcard.jacoblin.cool/Sumbal-Zehra?theme=light&font=Baloo%202&ext=heatmap&border=0&radius=10" alt="Sumbal Zehra LeetCode Stats" width="700">
+
+</a>
+
+<br><br>
+
+<a href="https://leetcode.com/u/Sumbal-Zehra/">
+<img src="https://img.shields.io/badge/View%20LeetCode%20Profile-ff69b4?style=for-the-badge&logo=leetcode&logoColor=white" alt="View LeetCode Profile">
 </a>
 
 </div>
 
----
 
 ## Certifications
 
