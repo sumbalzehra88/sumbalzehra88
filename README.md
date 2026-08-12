@@ -28,7 +28,7 @@
 
 I build at the intersection of **machine learning, embedded systems, and intelligent technology**.
 
-My work focuses on taking concepts from machine learning and computer systems and turning them into practical, real-world solutions — from safety systems and intelligent applications to research tools and embedded technologies.
+My work focuses on taking concepts from machine learning and computer systems and turning them into practical, real-world solutions from safety systems and intelligent applications to research tools and embedded technologies.
 
 Currently exploring:
 
@@ -40,6 +40,8 @@ Currently exploring:
 ![Computer Systems](https://img.shields.io/badge/Computer%20Systems-fce7f3?style=flat-square\&labelColor=fce7f3\&color=fce7f3)
 
 ---
+## My portfolio website 
+https://portfolio-sum11.vercel.app/
 
 ## What I Build
 
